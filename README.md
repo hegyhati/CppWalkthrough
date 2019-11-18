@@ -15,7 +15,7 @@ I plan to add basic I/O tests to each exercise later, and run them in a CI workf
 
 ### Can I ask you to do that for me?
 I'd suggest you to find a reliable person that you can meet irl, and invite for a few rounds of beer in exchange. 
-Regarding me, I am not just lazy, but pretty busy at the same time. If I review your code, it takes away from my time for other projects, thus, it only works if you (hire)[https://www.upwork.com/freelancers/~01a0649a8d4ae27a60] me. 
+Regarding me, I am not just lazy, but pretty busy at the same time. If I review your code, it takes away from my time for other projects, thus, it only works if you [hire](https://www.upwork.com/freelancers/~01a0649a8d4ae27a60) me. 
 
 ### Are you even that good in C++?
 No. I used to say, that the more I know about C++, and software development in general, the more I see how much I still have to learn. 
