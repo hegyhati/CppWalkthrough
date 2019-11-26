@@ -1,44 +1,36 @@
 #include<iostream>
 using namespace std;
 
-int main(){
-	
-    
-int x, n;
-
-         cout << "Enter your numbers to check if it is positive  : " << endl;
-
-while(1)
+int main()
 {
+   
+int  n;
 
-         cin >> n;
-
- if(n > 0) 
- {
-         x=n;
-         break; 
- }
-
+cout << "Enter your numbers to check if it is positive  : " << endl;
+do
+{
+cin >> n;
 }
+while(n<=0);
+
 
 do
 {
-  if(x%2==0)
+  if(n%2==0)
   {
-	   	 x=x/2;
-	   	 cout << x<<endl;
+	   	 n=n/2;
+	   	 cout << n<<endl;
   }
   else
   {
-		x=x*3+1;
-		cout << x<<endl;
+		n=n*3+1;
+		cout << n<<endl;
   }
-} while ( x!=1 );
-	
-
+}
+while ( n!=1 );
 
 return 0;
 
-          }
+}
 
 
