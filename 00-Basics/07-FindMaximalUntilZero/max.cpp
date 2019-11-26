@@ -10,6 +10,9 @@ int max ;
      cout << "Enter your numbers   : " << endl;
      cin >> x;
      max=x;
+if (max!=0)
+{
+	
 while(1)
 {
 
@@ -21,6 +24,7 @@ else if (max<n)
      {
    	 max=n;
      }
+}
 }
      cout << max << endl;
 return 0;
