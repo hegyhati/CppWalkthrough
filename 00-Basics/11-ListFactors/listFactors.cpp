@@ -7,7 +7,7 @@ int main(){
      int tab[j];
     
 int n;
- cout << "Enter your numbers to check if it is positive  : " << endl;
+ cout << "Enter your numbers to check if it is positive : " << endl;
 
     while(1)
          {
