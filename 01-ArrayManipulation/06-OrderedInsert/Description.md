@@ -1,5 +1,5 @@
 Fill an integer array of size 5 from the input.
-The nth integer should be inserted in such a way, that the first n elements of the arrat are in increasing order.
+The nth integer should be inserted in such a way, that the first n elements of the array are in increasing order.
 Print out the first n element after each insertion.
 
 Example input:
